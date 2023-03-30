@@ -35,24 +35,25 @@
 */
 
 const calculator = (number1, number2) => {
-  return {
+  let result = { 
     sum: Math.trunc(number1 + number2),
     mult: Math.trunc(number1 * number2),
     div: Math.trunc(number1 / number2),
     sub: Math.trunc(number1 - number2),
   };
+  return result;
 };
 
 const arrayGenerator = (type, object) => {
-  let result = {};
+  let array = {};
   if (type === 'keys') {
-    result = Object.keys(object);
+    array = Object.keys(object);
   } else if (type === 'values') {
-    result = Object.values(object);
+    array = Object.values(object);
   } else if (type === 'entries') {
-    result = Object.entries(object);
+    array = Object.entries(object);
   }
-  return result;
+  return array;
 };
 console.log(arrayGenerator('values', { sum: 13, mult: 30, div: 3, sub: 7 }));
 
