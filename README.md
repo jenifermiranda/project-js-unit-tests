@@ -8,6 +8,6 @@ Nesse projeto eu exerci as seguintes habilidades/conhecimentos:
 - Escrever funções de forma que elas atendam a testes já implementados;
 - Escrever testes e funções utilizando uma abordagem de desenvolvimento orientado a testes.
 
-Os códigos das funções:`average`, `vqv`, `createStudent`, `calculator`, `arrayGenerator`, `myCounter` foram inteiramente desenvolvidos por mim.
+# Os códigos das funções:`average`, `vqv`, `createStudent`, `calculator`, `arrayGenerator`, `myCounter` foram inteiramente desenvolvidos por mim.
 
-Assim como os testes das funções: `nunbers`, `circle`, `productDetails`, `getCharacter`.
+# Assim como os testes das funções: `nunbers`, `circle`, `productDetails`, `getCharacter`.
