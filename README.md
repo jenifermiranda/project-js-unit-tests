@@ -1,4 +1,4 @@
-# Projeto JavaScript Testes Unitários
+# :ballot_box_with_check: Projeto JavaScript Testes Unitários :ballot_box_with_check:
 
 Nesse projeto, desenvolvido para o curso de Desenvolvimento Full-Stack da Trybe, eu implementei várias funções na resolução dos requisitos propostos e/ou testes unitários para garantir que as implementações das funções estavam corretas.
 
